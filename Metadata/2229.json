@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #2230",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #2229",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Grey"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Eruption"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bandana"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Aviators"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Snapback"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmNd9xz9KgX1DEtNnj8WL4u54SiG9ru4hP3Jzg3yUdnzNP",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmNd9xz9KgX1DEtNnj8WL4u54SiG9ru4hP3Jzg3yUdnzNP"
 }
-    

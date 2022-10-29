@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #571",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #570",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Electric Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "IDGAF"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bokeh Hoodie"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Lennons"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bull Horns"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmSyb7FXc2Zky2Jq846GNdAnMi9pE7GwRwatf3qiPBjnNt",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmSyb7FXc2Zky2Jq846GNdAnMi9pE7GwRwatf3qiPBjnNt"
 }
-    

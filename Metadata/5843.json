@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #5844",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #5843",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Sketch"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric Eyes"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lifevest"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bozo"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Electric Minnow Halo"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmWwbMv2h8ZHFvstwk9h7mNTQgKasTmEm1KhynSUaEq3fe",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmWwbMv2h8ZHFvstwk9h7mNTQgKasTmEm1KhynSUaEq3fe"
 }
-    

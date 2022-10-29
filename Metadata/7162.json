@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #7163",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #7162",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Dia de los muertos"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Paranoid"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Hook"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "Sea Snake"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Teeth"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmWp77ps1khuDJvCfWzDHK1NizuV4436dXrDneYeDcyh9f",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmWp77ps1khuDJvCfWzDHK1NizuV4436dXrDneYeDcyh9f"
 }
-    

@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #4481",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #4480",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Washed Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Thug"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Paranoid"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Doofy"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Scuba Mask"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Baseball Hat"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/Qmdku1WLoGRWbajGF3uk58bNHB7jQZ2XUpD4t4qppNFLaT",
+    "image": "https://cloudflare-ipfs.com/ipfs/Qmdku1WLoGRWbajGF3uk58bNHB7jQZ2XUpD4t4qppNFLaT"
 }
-    

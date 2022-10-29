@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #4713",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #4712",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Washed Brown"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Grey Tiger"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Goku"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bozo"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Viper Sunglasses"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Sharkpro"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmWwNAe2wtrzVv7xa4vynpeTtNoe97sW2ZANkU5f79547H",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmWwNAe2wtrzVv7xa4vynpeTtNoe97sW2ZANkU5f79547H"
 }
-    

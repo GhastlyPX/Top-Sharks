@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #3979",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #3978",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "IDGAF"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bozo"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bull Horns"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmcH9NeEQryR6JBCqRbh62ns9B5ikTj3j78zWoyED4TVJL",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmcH9NeEQryR6JBCqRbh62ns9B5ikTj3j78zWoyED4TVJL"
 }
-    

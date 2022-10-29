@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #2604",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #2603",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Albino"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Split Jacket"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Navy Beret"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmdvQD7ifxjaUo8frq4QV3D6AYqeGsmtctggUiJVcQXVKB",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmdvQD7ifxjaUo8frq4QV3D6AYqeGsmtctggUiJVcQXVKB"
 }
-    

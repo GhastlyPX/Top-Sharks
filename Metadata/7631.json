@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #7632",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #7631",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Azure Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Thug"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lava Lamp Jacket"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Cyclops"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Surfer"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmbnnLt13L3Qsd76aoxBKksoq32M6VSbmrHVSdd16BwNEY",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmbnnLt13L3Qsd76aoxBKksoq32M6VSbmrHVSdd16BwNEY"
 }
-    

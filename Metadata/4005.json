@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #4006",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #4005",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Apricot"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Dia de los muertos"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric Eyes"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "Gold Necklace"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Hungry"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Viper Sunglasses"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Snapback"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmbycYiWpdUTA6ULs1DaKuxtzPUfiBYrwUjAtpGiNbzZe7",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmbycYiWpdUTA6ULs1DaKuxtzPUfiBYrwUjAtpGiNbzZe7"
 }
-    

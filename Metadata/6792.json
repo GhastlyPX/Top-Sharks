@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #6793",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #6792",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark Blue"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fury"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Hook"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Prison Jumpsuit"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Cyclops"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dreadlocks"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmPzdrCyootn4ZjS8ngZrc98SdEZ7p3xwU4PCapnh7iWLU",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmPzdrCyootn4ZjS8ngZrc98SdEZ7p3xwU4PCapnh7iWLU"
 }
-    

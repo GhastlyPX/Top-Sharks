@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #20",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #19",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Underwater City"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Electric Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric Eyes"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Megalodon Tooth Necklace"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bokeh Hoodie"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Lennons"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "777 Hat"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmXCKWCwaXSDB4t66JymJC7C2bSuVRLgNoKoXVnnZWXrzt",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmXCKWCwaXSDB4t66JymJC7C2bSuVRLgNoKoXVnnZWXrzt"
 }
-    

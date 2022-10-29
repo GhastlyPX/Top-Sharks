@@ -1,13 +1,44 @@
 {
-  "name": "Top Sharks #2016",
-  "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
-  "attributes": [
-    {
-      "trait_type": "Unrevealed",
-      "value": "Pending reveal"
-    }
-  ],
-  "external_url": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmZ52omQf5uEXMQ8uKYCf5HJ8nCkZEok5zMuW6rJBky21u"
+    "name": "Top Shark #2015",
+    "description": "7777 sharks roaming the Aptos ocean. All of them with only one question in their mind:'Who is Megalodon'",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea Green"
+        },
+        {
+            "trait_type": "Shark Skins",
+            "value": "Eruption"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rinnegan"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Seal Diving Suit"
+        },
+        {
+            "trait_type": "Special Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "nsfw"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Seal Diving Suit"
+        }
+    ],
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmWn1KjXiWKCJXKKeBRsmZ1oqEzt8ZKcPFxpbZVu4GuoKe",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmWn1KjXiWKCJXKKeBRsmZ1oqEzt8ZKcPFxpbZVu4GuoKe"
 }
-    
